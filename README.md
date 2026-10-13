@@ -44,6 +44,7 @@ This layer has nothing to do with anything you do:
 Because the system isn't asking "is this person trustworthy" or "is there enough money here." It's asking "where did this card number come from." A card's issuing country is baked into the number itself, and you can't change it.
 
 So the right question isn't "how do I get around this." It's — **use a card from an issuing country that gets through**.
+There's a fuller breakdown of which issuing countries get blocked and why over on the MothCard blog: [Why your virtual card gets declined on AI subscriptions](https://www.mothcard.io/blog/why-virtual-cards-get-declined-on-ai-subscriptions/).
 
 ### The weighted items will bite you too
 
